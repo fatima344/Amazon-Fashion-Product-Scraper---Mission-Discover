@@ -1,0 +1,902 @@
+{
+    "Product 0": {
+        "product details": {
+            "productUrl": "https://www.amazon.com/Protective-Chesapeake-Waterproof-Lightweight-8677577-08/dp/B001280CHU/ref=sr_1_3",
+            "productId": "May 31, 2012",
+            "gender": "Male",
+            "category": [
+                "Shoes"
+            ],
+            "description": "",
+            "subCategory": [
+                "Men's Boots"
+            ],
+            "productName": "Dunlop Protective Footwear, Chesapeake plain toe Black Amazon, 100% Waterproof PVC, Lightweight and Durable, 8677577.11, Size 11 US",
+            "brandName": "DUNLOP Store",
+            "colors": {
+                "NA": {
+                    "images": [],
+                    "price": [
+                        {
+                            "salePrice": "$28.49"
+                        }
+                    ]
+                },
+                "Black Extra Tough 50/50+ajax": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/7109kcZvxmL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black Valor Wp": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71YYJQx7VtL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Dark Brown Valor Wp": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71NDT4d+UzL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Gaucho Crazy Horse": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/81QJZtJi+0L._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black Nappa": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71tWkqAHhVL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black Wyoming": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/61aecLIB98L._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71+ay7aNWYL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Dark Brown Crazy Horse": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/81OZriRI7WL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Optical White Kemble Pu": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71t8ZqMwc+L._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black/Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/818io+VRUtL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Dark Brown Wild Buck": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/51fIQ1uAWaL._AC_SL1024_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Select": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71GHAYyAqAL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/71ll1mVfznL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/71bKSMKlRAL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/51CBfxFGOyL._AC_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$19.99 - $27.95"
+                        }
+                    ]
+                },
+                "(100) Maverick Brown/Maverick Brown/Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/61CTYar3MJL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41pZ+U2JMOL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61FpNCYgkBL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61g5e8uWl4L._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61gc9LZMeEL._AC_SL1000_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$84.00 - $84.98"
+                        }
+                    ]
+                },
+                "Black (001)/Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/51d1mkgR2qL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51DrcYCSUHL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41lju66EaOL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51gphKGc5bL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51FnFzUOUmL._AC_SL1000_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$84.00 - $84.98"
+                        }
+                    ]
+                },
+                "Black/Jet Gray": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/61aqlTUqfFL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/61QBO0Yg-VL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/51zaOrWS6ZL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/61HJ0vupVzL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/61eeP2keHWL._AC_SL1425_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$84.00 - $84.98"
+                        }
+                    ]
+                }
+            },
+            "Product reviews": [
+                {
+                    "review": "No complaints here.  The boot size fits well, they are definitely water resistent, they are comfortable for what I need them for, and the price was reasonable.  It seems these should last a while.  They replaced a pair of waterproof boots that I purchased over 20 years ago.  I should get 20 years from these as well.  Fingers crossed.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "At least perfect to me. The fit is great and they feel very comfortable when walking. Because it's PVC rather than rubber, the soles bend very easily, while still holding a rigid enough shape. It's sloppy mess outside, and my feet and socks are still dry as could be.My only real complaint, and it's not that big of a deal, is the insert. It's a little thin and probably won't last that long, but it's easily replaceable when the time comes, as it's not glued down.I would most definitely recommend these.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "I had an expensive pair of rubber boots that finally gave up the ghost. I wasn't expecting much when I ordered these, but they are even more comfortable than my previous pair. No issues at all, they are keeping me dry. The boots were delivered very quickly as well, which was appreciated. The only thing I was displeased by, was the strong rubber scent when opening the package. This odor did quickly go away though, so I'm 100% happy with these boots!",
+                    "rating": 4.0
+                },
+                {
+                    "review": "Couldn't believe boots at this price were still made in the USA so I had to get a pair.  My son and I both like them.  They fit good, have a meaty sole and should work great in warm weather.  The only upgrade I would like to see would be the uppers to stay open so i can just stick my feet in them.  But all said a quality USA product.  I'll probably get another pair for my daughter.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "These boots are far more comfortable than I had anticipated. Additionally, during a recent thunderstorm they kept my feet extremely dry. The sized ordered was spot on!  There really is no reason to pay more for other rain boots; these are just perfect while not being overly pricey.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "I wear a size 10 shoe....ordered the boots in a size 11.Wearing a plain thickness cotton crew sock the boots fit me perfectly,fit just right and the width was perfect since I have a wide foot.There's room for a heavy wool sock with no issues.These will work great for mucking around doing the yard work.The holes on the sides work great for pulling them on.Wish they were a little higher,but these will work just fine.I would buy another pair if needed.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "Made in the USA, which is rare and very appreciated. Super high value, if you need a durable pair of boots to wear intermittently to keep your feet dry they are awesome. Such as a couple of hours a day doing farm chores, perfect for that.If its cold out, and the boots are cool/cold, such as from sitting over night in an unheated garage,  your feet are going to be cold, even with wool socks. These things get cold and stay that way for a long time. If you start the day with these cold your feet are going to freeze all day. I can feel them sucking the heat out of my feet.I have huge calves and struggle to wear rubber boots besides ankle boots. The sheaths on these are larger than average and they just fit. I wish they were a little bigger to make it easier to tuck my pants into.I wear 10.5 in Ariat square toes, which start tight and break in just right. I bought these in an 11 and even with thick wool socks they are too loose.They offer no ankle support. The sheath material is very pliable, they won't even stand up under their own weight. That being said the design is very trim, not clunky.They have very aggressive tread, which for my use is a good thing, I bought them to slop around in the winter clay mud.Bottom line: for occasional use, on a budget these are hard to beat, if you plan on working in them all day every day look elsewhere if your budget permits. And remember these are made in the US at competitive prices to other options... that is reason enough to buy them over other options in the price range.",
+                    "rating": 3.0
+                },
+                {
+                    "review": "We just moved to a home that requires alot of grass cutting yard work. These boots are perfect for wearing while cleaning up the yard. Comfortable and fits my husband's feet (with socks) very well.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "I live in rubber boots in the rainy times here in Texas.  I usually buy these from the farm stores and they eventually crack and leak.  These boots are comfortable, but the rubber is much thinner and softer than the others I've bought in this same price range.  Right now they are very waterproof, but they don't seem to feel like they are going to be as durable.  Time will tell.  The sole is also not as stiff which doesn't give as much arch support, but I put in insoles which help some.",
+                    "rating": 4.0
+                },
+                {
+                    "review": "For 30 bucks, these things changed fishing for me. I can stomp thru mud and wade up to my shins with confidence I love them. Keep them warm if you can and wear two pairs of socks they get very cold. But great stompers for the price",
+                    "rating": 5.0
+                }
+            ]
+        }
+    },
+    "Product 1": {
+        "product details": {
+            "productUrl": "https://www.amazon.com/Dr-Martens-Fashion-Wyoming-Womens/dp/B082VYCHGB/ref=sr_1_4",
+            "productId": "B08P992HHX",
+            "gender": "Male",
+            "category": [
+                "Shoes"
+            ],
+            "description": "Built with core Dr. Martens DNA: grooved edges, an AirWair heel loop and visible stitching.Hiker inspired 6 Tie boot with padded collar.Made with a comfortable, durable cemented construction.An extra tough, synthetic woven fabric with great strength and elasticity.",
+            "subCategory": [
+                "Men's Boots"
+            ],
+            "productName": "Dr. Martens Unisex-Adult Lace Fashion Boot",
+            "brandName": "Dr. Martens Store",
+            "colors": {
+                "NA": {
+                    "images": [],
+                    "price": [
+                        {
+                            "salePrice": "$28.49"
+                        }
+                    ]
+                },
+                "Black Extra Tough 50/50+ajax": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/7109kcZvxmL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black Valor Wp": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71YYJQx7VtL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Dark Brown Valor Wp": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71NDT4d+UzL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Gaucho Crazy Horse": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/81QJZtJi+0L._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black Nappa": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71tWkqAHhVL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black Wyoming": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/61aecLIB98L._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71+ay7aNWYL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Dark Brown Crazy Horse": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/81OZriRI7WL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Optical White Kemble Pu": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71t8ZqMwc+L._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black/Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/818io+VRUtL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Dark Brown Wild Buck": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/51fIQ1uAWaL._AC_SL1024_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Select": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71GHAYyAqAL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/71ll1mVfznL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/71bKSMKlRAL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/51CBfxFGOyL._AC_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$19.99 - $27.95"
+                        }
+                    ]
+                },
+                "(100) Maverick Brown/Maverick Brown/Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/61CTYar3MJL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41pZ+U2JMOL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61FpNCYgkBL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61g5e8uWl4L._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61gc9LZMeEL._AC_SL1000_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$84.00 - $84.98"
+                        }
+                    ]
+                },
+                "Black (001)/Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/51d1mkgR2qL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51DrcYCSUHL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41lju66EaOL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51gphKGc5bL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51FnFzUOUmL._AC_SL1000_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$84.00 - $84.98"
+                        }
+                    ]
+                },
+                "Black/Jet Gray": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/61aqlTUqfFL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/61QBO0Yg-VL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/51zaOrWS6ZL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/61HJ0vupVzL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/61eeP2keHWL._AC_SL1425_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$84.00 - $84.98"
+                        }
+                    ]
+                }
+            },
+            "Product reviews": [
+                {
+                    "review": "The comfort and lite weight are awesome! The size and fit are perfect. I have worn boots most of my life. I'm a landscape photographer, with a lot of hiking involved. I couldn't wait to try them out. I found, in a wooded relatively flat terrain,it's a 10 of 10, and in moutainous rocky terrain a 6 of 10. In rocky hill terrain, the grip was only average and the bottom of my feet were a briefly sore after. However, this style of boot was not made for heavy hiking, I was just pushing it a little. These boots are for comfort, style, and lite hiking, and they deliver!",
+                    "rating": 5.0
+                },
+                {
+                    "review": "The most comfortable boots ive ever used, mostly due to how much the leather will stretch and conform. I mostly wear the sketchers \"middle aged dad\" wide fit shoes that are well known for being pretty close to slippers comfort but also have to wear steel toes for work so I have good comparison points. These are very close to the sketchers, not quite, but enough that more often than not I end up wearing these instead as they are still super comfortable. I normally wear a 12 wide, so I bought a 12 regular expecting it to stretch and it in fact was very narrow and tight at first. The third use it felt great, the 5th time (after having walked about a mile in total in them) they were broken in. After wearing about 50 times now I can say that I love these and they fit me nearly perfect. The laces provided are too short for the number of eyelets in my opinion so I dont tie the top 2 rows (or maybe my feet are actually too wide) and the toe was longer than expected. These are not shiny, a matte black so they dont stand out too much, but nice enough to use as casual dress shoes. However due to the lower shine they are super easy to clean and dont show scratches as much, fairly durable so far. If there are scraches or cracks on mine I havent found them yet. Perfect for lots of walking, has a similar spring and cushon in your step comparable to name brand crocs, but you know way more comfortable. Warm enough for mild cold with thick socks which even fit with me despite how tight they were, but not too hot with thin sport socks even in the summer. Sure they arent gonna handle snow and ice that well but for Louisiana winters they are perfect, however I wear mine year around even in summer, they are just that good.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "I like the quality and style of the boot, it is comfortable and easy to walk in. Needs just a hair more of cushioning, other than that excellent boot, will recommend it.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "Dr. Marten\u2019s boots are supposed to be durable, comfortable, and stylish, moreover, a staple in street fashion. They come with an extra pair of yellow/black laces. For premium-priced boots, I wish they came with the Wonder Balsam Shoe Protector, but that will cost you an extra $12.00. My size 12 US fits me comfortably with a little extra room for thick socks, so I guess it is true to size. I wore them straight out of the box, comfortable from day one; I didn't have to break them in. So will they last a year? Stay tuned.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "Great fit and good looking boot.",
+                    "rating": 4.0
+                },
+                {
+                    "review": "I just got these today and I'm wearing them at work. They are very comfortable and good quality. They are worth paying a little extra for.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "I write a review here and there, but I read a lot of them. That being said, I thought I\u2019d write a review for these boots since I am in love, and I want you to be too!I got the Gaucho Crazy Horse boots. The style is casual without being too clunky, and they look like they will have a nice worn appearance after a break-in period. They come with two sets of laces: one dark brown, and one a variegated work boot lace.I usually wear a 9 1/2 in a boot and have a wide foot. I got these in the 9/10 and they are perfect!I can\u2019t speak to the wear of these boots, but they look pretty sturdy. I can\u2019t imagine wearing them out any time soon!If you\u2019re debating, I say get them! You won\u2019t be sorry!",
+                    "rating": 5.0
+                },
+                {
+                    "review": "I own several pairs of Docs in a variety of styles. Most of them are either too narrow, too long, and don't fit quite right so I have to find good insoles to get a better fit. These however, fit perfectly right out of the box! They're super lightweight and the toe box is a great shape - not too narrow or wide and fits my feet very comfortably. No insoles needed. I typically wear a size 10 in Men's for most other shoes, but I will usually order a size down for Docs since they tend to run large.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "Wow, do i like Doc\u2019s!! My first pair and i was very worried about the last minute break in i had to do the day after i bought them!!  Needed them for a last minute storm that was hitting at major tailgate football party!!  We have several tents we had to attend to and all the walking around I thought was going to kill my feet!! Well, they didn\u2019t ! In fact they were super comfortable and left my feet dry the whole time!!  My fist pair and definitely not my last pair!  Thanks DR!!!",
+                    "rating": 5.0
+                },
+                {
+                    "review": "First off these boots are amazing break in period was not needed they felt broke in from day one in a good way. I ended up using them for work(not my intention). And did not condition them or waterproof them ran them through the dirt and mud moving furniture in and out of homes for about 7 months they are still holding up. I will have to have them get tlc from a boot guy and I will buy again!",
+                    "rating": 5.0
+                }
+            ]
+        }
+    },
+    "Product 2": {
+        "product details": {
+            "productUrl": "https://www.amazon.com/Custom-Leathercraft-R23010-Over-Black/dp/B002WN2SZ8/ref=sr_1_5",
+            "productId": "B002WN2SXU",
+            "gender": "Male",
+            "category": [
+                "Shoes"
+            ],
+            "description": "PLEASE REFERENCE SIZE CHART PRIOR TO PURCHASE FOR ACCURATE SIZING..EVA FOOT FORM provides comfort for all-day wear in these CLC rain boots.IMPROVED TRACTION: Cleated sole on these rain boots allow for improved traction.OVER THE SOCK RAIN BOOT: \u201cOver-the-sock\u201d men's sizing..",
+            "subCategory": [
+                "Men's Boots"
+            ],
+            "productName": "Custom Leathercraft CLC Climate Gear R230 Over The Sock Black PVC Rain Boot",
+            "brandName": "Custom Leathercraft Store",
+            "colors": {
+                "NA": {
+                    "images": [],
+                    "price": [
+                        {
+                            "salePrice": "$28.49"
+                        }
+                    ]
+                },
+                "Black Extra Tough 50/50+ajax": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/7109kcZvxmL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black Valor Wp": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71YYJQx7VtL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Dark Brown Valor Wp": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71NDT4d+UzL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Gaucho Crazy Horse": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/81QJZtJi+0L._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black Nappa": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71tWkqAHhVL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black Wyoming": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/61aecLIB98L._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71+ay7aNWYL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Dark Brown Crazy Horse": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/81OZriRI7WL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Optical White Kemble Pu": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71t8ZqMwc+L._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black/Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/818io+VRUtL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Dark Brown Wild Buck": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/51fIQ1uAWaL._AC_SL1024_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Select": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71GHAYyAqAL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/71ll1mVfznL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/71bKSMKlRAL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/51CBfxFGOyL._AC_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$19.99 - $27.95"
+                        }
+                    ]
+                },
+                "(100) Maverick Brown/Maverick Brown/Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/61CTYar3MJL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41pZ+U2JMOL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61FpNCYgkBL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61g5e8uWl4L._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61gc9LZMeEL._AC_SL1000_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$84.00 - $84.98"
+                        }
+                    ]
+                },
+                "Black (001)/Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/51d1mkgR2qL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51DrcYCSUHL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41lju66EaOL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51gphKGc5bL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51FnFzUOUmL._AC_SL1000_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$84.00 - $84.98"
+                        }
+                    ]
+                },
+                "Black/Jet Gray": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/61aqlTUqfFL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/61QBO0Yg-VL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/51zaOrWS6ZL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/61HJ0vupVzL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/61eeP2keHWL._AC_SL1425_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$84.00 - $84.98"
+                        }
+                    ]
+                }
+            },
+            "Product reviews": [
+                {
+                    "review": "After receiving them I had to air them out for a month before i could bring them in the house. The new rubber smell was very strong. They fit well but they also are very stiff around the feet as there is no padding inside your feet are on stiff rubber. It would be nice if there were finger loops or slots in the top to hold them open when putting on. the tops fold together and are hard to hold open to put your foot in.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "That's about it. Wat not wearing them very often, but one of the boots cracked not more than a year after purchase.",
+                    "rating": 3.0
+                }
+            ]
+        }
+    },
+    "Product 3": {
+        "product details": {
+            "productUrl": "https://www.amazon.com/Under-Armour-Valsetz-Military-Tactical/dp/B08CF5Y35F/ref=sr_1_6",
+            "productId": "B09MYNW6ZY",
+            "gender": "Male",
+            "category": [
+                "Shoes"
+            ],
+            "description": "Lightweight synthetic leather & textile upper is durable & breathable.Welded forefoot overlay & molded TPU toe cap for added protection.Medial side zip & pull loops on heel & tongue for easy on/off.Full-length Micro G foam midsole for the ultimate in long-lasting, responsive cushioning.",
+            "subCategory": [
+                "Men's Boots"
+            ],
+            "productName": "Under Armour Men's Micro G Valsetz Zip Military and Tactical Boot",
+            "brandName": "Under Armour Store",
+            "colors": {
+                "NA": {
+                    "images": [],
+                    "price": [
+                        {
+                            "salePrice": "$28.49"
+                        }
+                    ]
+                },
+                "Black Extra Tough 50/50+ajax": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/7109kcZvxmL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black Valor Wp": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71YYJQx7VtL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Dark Brown Valor Wp": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71NDT4d+UzL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Gaucho Crazy Horse": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/81QJZtJi+0L._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black Nappa": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71tWkqAHhVL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black Wyoming": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/61aecLIB98L._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71+ay7aNWYL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Dark Brown Crazy Horse": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/81OZriRI7WL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Optical White Kemble Pu": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71t8ZqMwc+L._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Black/Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/818io+VRUtL._AC_SL1500_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Dark Brown Wild Buck": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/51fIQ1uAWaL._AC_SL1024_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$90.56 - $130.00"
+                        }
+                    ]
+                },
+                "Select": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/71GHAYyAqAL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/71ll1mVfznL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/71bKSMKlRAL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/51CBfxFGOyL._AC_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$19.99 - $27.95"
+                        }
+                    ]
+                },
+                "(100) Maverick Brown/Maverick Brown/Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/61CTYar3MJL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41pZ+U2JMOL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61FpNCYgkBL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61g5e8uWl4L._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61gc9LZMeEL._AC_SL1000_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$84.00 - $84.98"
+                        }
+                    ]
+                },
+                "Black (001)/Black": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/51d1mkgR2qL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51DrcYCSUHL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41lju66EaOL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51gphKGc5bL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51FnFzUOUmL._AC_SL1000_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$84.00 - $84.98"
+                        }
+                    ]
+                },
+                "Black/Jet Gray": {
+                    "images": [
+                        "https://m.media-amazon.com/images/I/61aqlTUqfFL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/61QBO0Yg-VL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/51zaOrWS6ZL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/61HJ0vupVzL._AC_SL1425_.jpg",
+                        "https://m.media-amazon.com/images/I/61eeP2keHWL._AC_SL1425_.jpg"
+                    ],
+                    "price": [
+                        {
+                            "salePrice": "$84.00 - $84.98"
+                        }
+                    ]
+                }
+            },
+            "Product reviews": [
+                {
+                    "review": "Ya see the difference \ud83d\ude2d i\u2019ve used these boots for almost 2 years and it\u2019s time to replace them. These are my 2nd pair because they\u2019re just great. Wished they were waterproof with the same design and all. I work ems in nyc and use these for 8-16hrs, 4-5 times a week. They\u2019re light weight so you can run to save your fellow mos on a 10-13. They feel like sneakers, comfy and LIGHT weight. The only thing is they wear off after a year and a half use. Will buy again tho ! Highly recommend ! you can do your stairchair with ease with your fellow lift assist \ud83d\ude05",
+                    "rating": 5.0
+                },
+                {
+                    "review": "I have to be careful w/shoes now due to loss of feeling in feet from diabetes.These are absolutely best fit of any size zip I have ever worn. I have been using different ones since 2010.The only downside is the soles are squeaky on tile, concrete\u2026Also they are not nearly as good gripping as Bates and Danner\u2019s, Cabellas\u2026I have worn over they years.However they fit the BEST by major leaps and bounds!I wear them to the gym and have run in them a bunch as they fit better than running shoes.They have easy pull on straps on both sides and even feel awesome when not zipped up so they work great for quick on and off when just need them to run outside for something or to pop off when driving for long hauls and putting back on quick.Will buy again for sure.I am sooooooo hoping UA makes same boot w/better soles. If so I will buy 3 more pair right away just to have for future.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "I am on my 3rd pair of these. There\u2019s a reason I keep going back to them. They are comfortable and sturdy. I spend slot of time on hard surfaces like concrete or asphalt and they are very comfortable. After an 8 or 16 hour shift, my feet aren\u2019t hurting. The only complaints I have are that the soles are kind of soft, great for comfort but they wear down a little faster than I\u2019d like. Also it might be personal preference but I find the laces aren\u2019t that good. Every pair I\u2019ve had, the laces break long before the boots wear out. But if laces are all I really have problems with then that is fine by me.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "These are very comfortable boots, and can be worn for hours at a time with no need for an insole. They are very lightweight, breathable, well fitting, and at least for me did not require any \"break-in\" period at all.Just a fair warning for those purchasing these for any occupation that would have you walking on wet/oily floors inside, these are NOT slip or oil-resistant at all, they're as slip-resistant as an oil slick on an iceberg. A small puddle of water on any kind of interior surface that isn't rough concrete will have your feet flying out from under you faster than you would believe. If you work anywhere that possesses a risk of slipping, you're much better off buying anything else.",
+                    "rating": 4.0
+                },
+                {
+                    "review": "Like any new boot. They are stiff new. But in a few days they soften up and are really comfortable. They are not too thin either. I usually get wide but these fit great.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "They were a gift for my grandson. He is an EMT and is now training for a paramedic and needed new boots and those were perfect! Especially with the zipper fast and easy on and off.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "Lightweight and comfortable. NOT shineable if your dept policy requires a shine.  Hiking, tactical, daily, gym.  No problem.",
+                    "rating": 5.0
+                },
+                {
+                    "review": "Until you walk on something even kind of slippery. Has got to be the most slippery soles on any set of shoes or boots I've owned.They are very comfortable, and really light weight..I mean they don't weigh anything and I love that part. No seams are letting go, the soles remain attached strongly to the upper, the zipper works well. Holding up nicely. But if you step on wet concrete, steps, tile floor, linoleum, mud, anything like that which may be even slightly damp or slick, you're going down. Do not wear these is wintery conditions you'll kill yourself.",
+                    "rating": 3.0
+                },
+                {
+                    "review": "After 10 months of use at a parts dept./warehouse, here are some pros and cons.Pros-Very comfortable on hard surfaces all day-Good support-The laces stay fairly tight if you only use the zip function and adjust every once in a while-Warm down to 30 degree weatherCons-Tread flat spot in the front after about 8 months-Wore through heel liner after 7 months-Not the best slip resistance on oily surfaces, fine with ice and snowOverall a good comfy boot especially for the price. I probably won\u2019t buy a second pair as I need something that lasts longer and has more grip.",
+                    "rating": 4.0
+                },
+                {
+                    "review": "First order came with dirt in the outsole. Reordered and got a new set in the next day. I had to call Amazon and complain. I had to drive 15 minutes to return the first order at Staples only to find that their Amazon return computer was down. Amazon customer service set up a UPS pickup so I didn\u2019t have to go through that again. This is the second time I have bought these boots. The quality is great. They are like wearing tennis shoes.",
+                    "rating": 4.0
+                }
+            ]
+        }
+    }
+}
